@@ -25,7 +25,7 @@
 
 <font size="6"> Hello, welcome to my website!</font> 
 
-I am Jeff Cheung. I am a graduate student in the Department of Economics at University of California, Davis. <br /><br />
+I am Jeff Cheung. I am a graduate student in the Department of Economics at the  University of California, Davis. <br /><br />
 
 <span style="color:blue">**CV:**  </span>   My CV is available [here](https://drive.google.com/file/d/1zOgkVtMFJoTxunTTFzdc3ETPNHZe0qF6/view?usp=sharing).
 
