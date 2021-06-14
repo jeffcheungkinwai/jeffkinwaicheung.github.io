@@ -1,0 +1,15 @@
+<style type="text/css">
+.main-container {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<style type="text/css">
+  body{
+  font-size: 18pt;
+}
+</style>
+
+My CV is available [here](https://drive.google.com/file/d/1zOgkVtMFJoTxunTTFzdc3ETPNHZe0qF6/view?usp=sharing).

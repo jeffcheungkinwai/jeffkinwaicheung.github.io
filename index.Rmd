@@ -1,5 +1,44 @@
----
-title: "Personal Website"
----
+<style type="text/css">
+.main-container {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
 
-Hello, World!
+<style type="text/css">
+  body{
+  font-size: 18pt;
+}
+</style>
+
+
+<style>
+  .col2 {
+    columns: 2 200px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 200px; /* chrome, safari */
+    -moz-columns: 2 200px;    /* firefox */
+  }
+</style>
+
+<div class="col2">
+
+<font size="6"> Hello, welcome to my website!</font> 
+
+I am Jeff Cheung. I am a graduate student in the Department of Economics at University of California, Davis. <br /><br />
+
+<span style="color:blue">**CV:**  </span>   My CV is available [here](https://drive.google.com/file/d/1zOgkVtMFJoTxunTTFzdc3ETPNHZe0qF6/view?usp=sharing).
+
+
+<span style="color:blue">**Research Interests:**  </span>   
+International Trade, Labor Economics, Applied Econometrics
+
+<span style="color:blue">**Contact Information:**   </span>   
+**Email:** jkwcheung@ucdavis.edu  
+
+
+![](Cheung_KinWai_picture.jpg)
+
+</div>
+
+  
